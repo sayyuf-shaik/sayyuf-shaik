@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayyuf-shaik
 - 👀 I’m interested in Device Drivers 
-- 🌱 I’m currently learning python, C, Linux Druvers
+- 🌱 I’m currently learning python, C, Linux Drivers and Kernel Source Code exploration
 - 💞️ I’m looking to collaborate on Linux Drivers, 
 - 📫 How to reach me sayyufshaik@gmail.com
 
